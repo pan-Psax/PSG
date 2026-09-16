@@ -1,0 +1,15 @@
+title: "Psax's Skeptiffic Globuli"
+author: "Psax"
+description: "Naturist's Field notes, skepticism, secularism and reflections."
+theme: minima
+
+# Nastavení cest pro GitHub Pages na subdoméně /PSG/
+baseurl: "/PSG"
+url: "https://pan-psax.github.io"
+
+# Nastavení formátu odkazů
+permalink: /:categories/:year/:month/:day/:title/
+
+# Nastavení hlavičky / menu
+header_pages:
+  - about.md
