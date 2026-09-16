@@ -1,0 +1,21 @@
+---
+layout: default
+title: Home
+---
+
+<p>Welcome to the personal archive of field notes, essays, and observations.</p>
+
+<hr>
+
+<h2>Field Notes &amp; Articles</h2>
+
+<ul class="post-list" style="list-style-type: none; padding-left: 0;">
+{% for post in site.posts %}
+  <li style="margin-bottom: 1.5rem;">
+    <span style="color: #666; font-size: 0.9rem;">{{ post.date | date: "%Y-%m-%d" }}</span>
+    <h3 style="margin-top: 0.2rem; margin-bottom: 0.2rem;">
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </h3>
+  </li>
+{% endfor %}
+</ul>
