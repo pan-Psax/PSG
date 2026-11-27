@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I’m **Pavel Šmejkal**, known online as **Psax**. I’m a Czech science advocate, amateur naturalist, **Atropos Skeptics Society** chair, and proud member of **Guerrilla Skepticism on Wikipedia** and **[Czech Skeptics Club Sisyfos](https://en.wikipedia.org/wiki/%C4%8Cesk%C3%BD_klub_skeptik%C5%AF_Sisyfos)**.  
+I’m **Pavel Šmejkal**, known online as **Psax**. I’m a Czech science advocate, amateur naturalist, **Atropos Skeptics Society** chair, and proud member of **Guerrilla Skepticism on Wikipedia** and **Czech Skeptics Club Sisyfos**.  
 I fight misinformation with facts, wit, and the occasional moth.
 
 > “Hello and welcome my gentle and of course very modern Apes!”  
