@@ -5,7 +5,7 @@ date: 2025-10-04 16:58:56 +0200
 categories: [field-notes]
 ---
 
-This morning brought the first frost—0 °C. Autumn has arrived in full, and the air carries that unmistakable scent of the season. The forest floor is abundant with mushrooms: *Macrolepiota*, *Suillus*, *Russula*, and many others scattered across the leaf litter.
+This morning brought the first frost - 0 °C. Autumn has arrived in full, and the air carries that unmistakable scent of the season. The forest floor is abundant with mushrooms: *Macrolepiota*, *Suillus*, *Russula*, and many others scattered across the leaf litter.
 
 The blackthorn (*Prunus spinosa*) bushes are heavy with dark blue sloes, while the rosehips (*Rosa canina*) glow bright red along the path. Between them, among the mushrooms, Maiden pinks (*Dianthus deltoides*) still bloom—small yellow flowers of cinquefoil (*Potentilla reptans*) shine through, and the tall, pale seed heads of grasses catch the light. The maples (*Acer* sp.) are turning red.
 
