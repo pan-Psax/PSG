@@ -6,6 +6,9 @@ categories: [dispatches]
 image: /assets/images/pitha.jpg
 ---
 
+![Protest against Petr Piťha]({{ site.baseurl }}/assets/images/pitha.jpg)
+
+
 Czech Rep. is still struggling with the ratification of the Istanbul Convention (Convention on preventing and combating violence against women and domestic violence).
 
 Three changes in Czech law are still waiting to be accepted – penalties for forced marriages, forced sterilization and the adjustment of the limitation period for prosecution for female circumcision. There is no reason to obstruct you can say.
