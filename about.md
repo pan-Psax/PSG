@@ -9,7 +9,7 @@ I fight misinformation with facts, wit, and the occasional moth.
 
 ---
 
-> “Hello and welcome my gentle and of course very modern Apes!”  
+> **“Hello and welcome my gentle and of course very modern Apes!”**  
 > — *A nod to my inspiration, science communicator Erica, also known as [Gutsick Gibbon](https://www.youtube.com/@GutsickGibbon). The "ape" and "troop" theme of this site is a tribute to her sharp, humorous approach to skepticism.*
 
 ---
