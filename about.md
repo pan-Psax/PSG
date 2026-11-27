@@ -4,11 +4,15 @@ title: About
 permalink: /about/
 ---
 
-I’m **Pavel Šmejkal**, known online as **Psax**. I’m a Czech science advocate, amateur naturalist, **Atropos Skeptics Society** chair, and proud member of **Guerrilla Skepticism on Wikipedia** and **Czech Skeptics Club Sisyfos**.  
+I’m Pavel Šmejkal, known online as Psax. I’m a Czech science advocate, amateur naturalist, Atropos Skeptics Society chair, and proud member of Guerrilla Skepticism on Wikipedia and Czech Skeptics Club Sisyfos.  
 I fight misinformation with facts, wit, and the occasional moth.
+
+---
 
 > “Hello and welcome my gentle and of course very modern Apes!”  
 > — *A nod to my inspiration, science communicator Erica, also known as [Gutsick Gibbon](https://www.youtube.com/@GutsickGibbon). The "ape" and "troop" theme of this site is a tribute to her sharp, humorous approach to skepticism.*
+
+---
 
 Simply a Czech **skeptic** and **humanist**, on a mission to cast some critical thinking magic and take down pseudoscience one ridiculous claim at a time. This website is my little corner of the internet where I unleash my ideas, skeptical shenanigans, and field observations. Through articles and other activities, I aim to shine a spotlight on the itching problems plaguing our society — like pesky religious organisations influencing government, populism, superstitions, and charlatans peddling miracle cures like they're selling life essentials.
 
