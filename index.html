@@ -3,19 +3,29 @@ layout: default
 title: Home
 ---
 
-<p>Welcome to the personal archive of field notes, essays, and observations.</p>
+<div class="home-intro" style="margin-bottom: 2.5rem;">
+  <h2>Psax's Skeptiffic Globuli</h2>
+  <p>A personal archive dedicated to field observations, skepticism, science, and secular reflections.</p>
+  <p>Here you will find ongoing nature logs from Central Bohemia, biodiversity surveys, and notes on critical thinking.</p>
+</div>
 
 <hr>
 
-<h2>Field Notes &amp; Articles</h2>
+<div class="recent-posts">
+  <h3>Recent Field Notes</h3>
 
-<ul class="post-list" style="list-style-type: none; padding-left: 0;">
-{% for post in site.posts %}
-  <li style="margin-bottom: 1.5rem;">
-    <span style="color: #666; font-size: 0.9rem;">{{ post.date | date: "%Y-%m-%d" }}</span>
-    <h3 style="margin-top: 0.2rem; margin-bottom: 0.2rem;">
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    </h3>
-  </li>
-{% endfor %}
-</ul>
+  <ul class="post-list" style="list-style-type: none; padding-left: 0;">
+  {% for post in site.categories.field-notes limit:4 %}
+    <li style="margin-bottom: 1.2rem;">
+      <span style="color: #666; font-size: 0.85rem;">{{ post.date | date: "%Y-%m-%d" }}</span>
+      <h4 style="margin-top: 0.2rem; margin-bottom: 0.2rem;">
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </h4>
+    </li>
+  {% endfor %}
+  </ul>
+
+  <p style="margin-top: 1.5rem;">
+    👉 <strong><a href="{{ '/field-notes/' | relative_url }}">Browse all Field Notes &rarr;</a></strong>
+  </p>
+</div>
