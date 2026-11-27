@@ -1,6 +1,6 @@
 title: "Psax's Skeptiffic Globuli"
-author: "Psax"
-description: "Field notes, skepticism, secularism and reflections."
+author: "Pavel Šmejkal (Psax)"
+description: "Potent globuli of critical thinking, scientific facts, field notes from Central Bohemia, and skeptical dispatches."
 theme: minima
 
 baseurl: "/PSG"
@@ -19,4 +19,15 @@ collections:
   dispatches:
     output: true
     permalink: /dispatches/:title/
-  
+
+defaults:
+  - scope:
+      path: ""
+      type: "dispatches"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "field_notes"
+    values:
+      layout: "post"
