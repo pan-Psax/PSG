@@ -13,4 +13,5 @@ permalink: /:categories/:year/:month/:day/:title/
 # Nastavení hlavičky / menu
 header_pages:
   - field-notes.md
+  - dispatches.md
   - about.md
