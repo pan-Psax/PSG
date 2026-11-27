@@ -6,6 +6,8 @@ categories: [dispatches]
 image: /assets/images/Dominik_duka_vyska.jpg
 ---
 
+![Dominik_duka_vyska]({{ site.baseurl }}/assets/images/Dominik_duka_vyska.jpg)
+
 Recently there have been articles in the media about the fact that in the “atheistic” Czech Republic there are fewer believers who profess to belong to specific churches. This is based on the results of the 2021 census.
 
 While in 1991 more than four and a half million people identified themselves as believers, twenty years later not even half of them were believers. The number of Czech citizens who claim to belong to a particular church is slightly lower than in the last census eleven years ago, but the number of those who identify themselves as believers but do not consider themselves part of a religious organization has increased by about a quarter of a million. Last year, over 1.3 million people subscribed to a faith, but of those 960,000 did not subscribe to any church.

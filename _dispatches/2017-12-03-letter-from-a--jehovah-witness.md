@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "A letter from a Jehovah’s Witness"
+title: "3227-2"
 date: 2017-12-03 17:29:00 +0200
 categories: [dispatches]
 image: /assets/images/jw.png
 ---
+
+![jw]({{ site.baseurl }}/assets/images/jw.png)
 
 Lately I found a letter in my mailbox, without envelope, just hand-written page from one lady, Jehovah’s Witness.
 

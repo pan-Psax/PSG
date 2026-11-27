@@ -6,6 +6,8 @@ categories: [dispatches]
 image: /assets/images/Marek_Orko_Vacha_SI-1.jpg
 ---
 
+![Marek_Orko_Vácha_SI (1)]({{ site.baseurl }}/assets/images/Marek_Orko_Vacha_SI-1.jpg)
+
 The Czech Republic, often touted as one of the most atheistic nations in Europe, has recently witnessed a contentious episode within its Catholic Church, highlighting the deep-seated tensions between traditionalist and progressive factions, as well as broader issues of conservatism, transparency, and the handling of sexual abuse allegations. The controversy surrounding the dismissal of Marek Orko Vácha, a popular and unconventional priest, by Prague Archbishop Jan Graubner, has ignited public debate and exposed the fault lines within the Czech Catholic community.
 
 **God in the Pub**

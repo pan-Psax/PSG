@@ -6,6 +6,8 @@ categories: [dispatches]
 image: /assets/images/acupuncture-568136_1920.jpg
 ---
 
+![acupuncture-568136_1920]({{ site.baseurl }}/assets/images/acupuncture-568136_1920.jpg)
+
 *Medicine sometimes snatches away health, sometimes gives it.  
 – Ovid*
 

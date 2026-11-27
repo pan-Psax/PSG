@@ -6,6 +6,8 @@ categories: [dispatches]
 image: /assets/images/Pjer_la_Sez_a_Jaroslav_Dusek.png
 ---
 
+![Pjér la Šé’z (New Age psychologist) and Jaroslav Dušek. (by WikimediaCommons)]({{ site.baseurl }}/assets/images/Pjer_la_Sez_a_Jaroslav_Dusek.png)
+
 Czech folk singer Hana Horká (57) from popular folk band Asonance died after catching COVID-19 on purpose in order to start having a “free life “. Catching the virus (as she believed) would allow her to avoid needing the vaccine, leading to her celebration upon learning she had contracted the virus.  
 It should be noted that Horká did not fall for any conspiracy theories, she did not believe that there are nanochips in vaccines and similar nonsense which is spreading on the internet. She just thought that the Omikron mutation is not dangerous and it is more “natural” to have the disease and get the antibodies this way than to be vaccinated.
 

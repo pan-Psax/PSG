@@ -6,6 +6,8 @@ categories: [dispatches]
 image: /assets/images/Blindfolded_20250716_170120_0000.png
 ---
 
+![Blindfolded_20250716_170120_0000]({{ site.baseurl }}/assets/images/Blindfolded_20250716_170120_0000.png)
+
 In the landscape of modern European democracies, capital punishment is largely a relic of a bygone era. The Czech Republic abolished the death penalty in 1990, a landmark decision symbolizing a definitive break from its totalitarian past. And yet, more than three decades later, a stubborn paradox remains: a majority of Czech citizens would welcome its return. A recent survey reveals a society deeply divided on this ultimate question of justice, providing a fascinating glimpse into the tensions between emotion, reason, and public policy.
 
 ### The Numbers and the History

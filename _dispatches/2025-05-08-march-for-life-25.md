@@ -6,6 +6,8 @@ categories: [dispatches]
 image: /assets/images/Narodni_pochod_pro_zivot_2016.jpg
 ---
 
+![2016 © Ales Nahly, Photographer]({{ site.baseurl }}/assets/images/Narodni_pochod_pro_zivot_2016.jpg)
+
 In April 2025, Prague once again witnessed the “March for Lie”… sorry “March for Life” – an annual public demonstration against abortion organised by the ultra-conservative Christian association *Hnutí pro život* (“Movement for Life”). The march was blocked by pro-choice counter-protesters and eventually dispersed by police. The march didn’t reach its final destination.
 
 While it may seem like a marginal clash between worldviews, the broader implications are not to be underestimated, especially in a country where church-state separation is both constitutionally enshrined and constantly tested.

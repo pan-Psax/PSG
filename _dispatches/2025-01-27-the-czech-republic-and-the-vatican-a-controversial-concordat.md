@@ -6,6 +6,8 @@ categories: [dispatches]
 image: /assets/images/Gerard_-_Signature_du_Concordat_entre_la_France_et_le_Saint-Siege_le_15_juillet_1801.jpg
 ---
 
+![Gérard_-_Signature_du_Concordat_entre_la_France_et_le_Saint-Siège,_le_15_juillet_1801]({{ site.baseurl }}/assets/images/Gerard_-_Signature_du_Concordat_entre_la_France_et_le_Saint-Siege_le_15_juillet_1801.jpg)
+
 The Czech Republic is currently embroiled in a heated debate over the ratification of a concordat with the Vatican. This agreement, long a source of contention, has sparked significant concern among proponents of secularism, human rights advocates, and those seeking justice for victims of sexual abuse. Signed in October 2024 by Prime Minister Petr Fiala and Vatican Secretary of State Pietro Parolin, the concordat has drawn criticism for its perceived impact on secularism and accountability.
 
 At the heart of the controversy is a clause granting “pastoral secrecy.” Under this provision, pastoral workers are granted confidentiality rights akin to those of confession, as defined by law. Critics argue that the term “pastoral worker” is overly broad and could apply to anyone designated by the Church, not just clergy. This ambiguity, they contend, creates a dangerous loophole that could shield cases of sexual abuse and hinder investigations. The Catholic Church’s track record of limited transparency in addressing abuse allegations only heightens these concerns. Detractors see the agreement as affording the Church a privileged position, undermining principles of equality and justice.

@@ -6,6 +6,8 @@ categories: [dispatches]
 image: /assets/images/homeopathy-2054956_1920.jpg
 ---
 
+![homeopathy-2054956_1920]({{ site.baseurl }}/assets/images/homeopathy-2054956_1920.jpg)
+
 Homeopathy is not a medical service, there is no scientific evidence, the court ruled this month.
 
 At the beginning there was a fine of almost €2.000 imposed by the Regional Council of the Zlín Region on a woman who provided homeopathy counseling.

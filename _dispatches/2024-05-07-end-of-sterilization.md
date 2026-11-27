@@ -6,6 +6,8 @@ categories: [dispatches]
 image: /assets/images/Ustavni_soud_Brno_Jostova_4438_pruhled_se_znakem.jpg
 ---
 
+![Ústavní_soud,_Brno_Joštova_4438_průhled_se_znakem]({{ site.baseurl }}/assets/images/Ustavni_soud_Brno_Jostova_4438_pruhled_se_znakem.jpg)
+
 We wholeheartedly welcome the Constitutional Court’s decision to abolish the legal requirements for surgery and sterilization as a condition for official sex change. This decision is an important victory for personal autonomy and human dignity for transgender and non-binary people in our country.
 
 In its ruling, the Constitutional Court today clearly stated that the legal requirements of genital reassignment surgery and disabling reproductive function are in direct conflict with trans people’s fundamental right to the protection of their bodily integrity and personal autonomy, and thus violate their human dignity. Transgender identity is not a disease and gender reassignment should not be conditional on interference with bodily integrity, which is irreversible and can have serious health consequences.

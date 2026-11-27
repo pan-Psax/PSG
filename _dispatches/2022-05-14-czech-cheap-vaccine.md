@@ -6,6 +6,8 @@ categories: [dispatches]
 image: /assets/images/monalisa-4893660_1920.jpg
 ---
 
+![monalisa-4893660_1920]({{ site.baseurl }}/assets/images/monalisa-4893660_1920.jpg)
+
 At first – quick numbers: 8275 confirmed cases, 5058 recovered and 290 dead in Czech Republic.
 
 “SARS-CoV-2-CZ-Preval” Study shows that the degree of immunization of the Czech population is very low. In the most affected localities does not reach the value of 4% – 5%. 27000 tested people revealed 107 positive cases.  

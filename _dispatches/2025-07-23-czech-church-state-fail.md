@@ -6,6 +6,8 @@ categories: [dispatches]
 image: /assets/images/PSG_scales32.png
 ---
 
+![PSG_scales32]({{ site.baseurl }}/assets/images/PSG_scales32.png)
+
 In what stands as a landmark victory for justice and human rights in the Czech Republic, the Constitutional Court recently overturned the decisions of lower courts and reopened the case of a woman who was allegedly sexually abused for years by a Roman Catholic priest. The ruling is a testament to the victim's incredible perseverance. But for skeptics and humanists, her long and arduous journey to this point is not a story of a system working, but of a system that failed repeatedly—and had to be corrected by a higher, international authority.
 
 This case is a powerful, real-world demonstration of the issues we so often discuss in the abstract: institutional accountability, the protection of the vulnerable, and the crucial role of a secular state in upholding justice, even against powerful religious bodies.

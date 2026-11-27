@@ -6,6 +6,8 @@ categories: [dispatches]
 image: /assets/images/20250611_1850_Eerie-Silent-Room_simple_compose_01jxfy91vzeyetgj3dyvan4b0j.png
 ---
 
+![20250611_1850_Eerie Silent Room_simple_compose_01jxfy91vzeyetgj3dyvan4b0j]({{ site.baseurl }}/assets/images/20250611_1850_Eerie-Silent-Room_simple_compose_01jxfy91vzeyetgj3dyvan4b0j.png)
+
 *“I believed him. I loved him. I thought I was doing the right thing.”*
 
 These are not the words of a hardened criminal, but of a Czech dentist and former teacher — two ordinary women who, under the influence of a charismatic self-proclaimed healer, killed him with their own hands. And then, perhaps even more shockingly, called the police.

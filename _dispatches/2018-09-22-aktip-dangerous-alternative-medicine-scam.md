@@ -6,6 +6,8 @@ categories: [dispatches]
 image: /assets/images/464679299_10162054452858011_8520693046903050258_n.jpg
 ---
 
+![464679299_10162054452858011_8520693046903050258_n]({{ site.baseurl }}/assets/images/464679299_10162054452858011_8520693046903050258_n.jpg)
+
 There is (not only) one alternative medicine case in Czech republic which could be the igniter for an strong effort to a legislation change.
 
 The Ministry of Health of the Czech Republic is [preparing a law on healers](https://web.archive.org/web/20240223063609/https://www.senat.cz/xqw/xervlet/pssenat/htmlhled?action=doc&value=85740) in these days.  

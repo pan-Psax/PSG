@@ -6,6 +6,8 @@ categories: [dispatches]
 image: /assets/images/pochod.jpg
 ---
 
+![pochod]({{ site.baseurl }}/assets/images/pochod.jpg)
+
 Sexualized violence is a dark stain on the face of Czech society, affecting the lives of thousands of women every year. New research presented by *proFem* and *MindBridge Consulting* presents alarming data on the economic impact and consequences that ripple through our society.  
 The research found that **more than half** of women have experienced some form of sexualized violence, while**one in five** women have experienced rape.
 

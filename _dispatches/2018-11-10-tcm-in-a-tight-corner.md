@@ -6,6 +6,8 @@ categories: [dispatches]
 image: /assets/images/antonika-chanel-467874-unsplash.jpg
 ---
 
+![antonika-chanel-467874-unsplash]({{ site.baseurl }}/assets/images/antonika-chanel-467874-unsplash.jpg)
+
 Good news, everyone!
 
 For three years the **TCM ambulance** has been operating at the Hradec Kralové’s University hospital. However, the planned [**TCM Center’s construction stopped**](https://web.archive.org/web/20240223055421/https://hradec.idnes.cz/cinska-medicina-hradec-kralove-prymula-cefc-europe-klinika-pap-/hradec-zpravy.aspx?c=A181003_160327_hradec-zpravy_pos).  

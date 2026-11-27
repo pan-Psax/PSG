@@ -6,6 +6,8 @@ categories: [dispatches]
 image: /assets/images/Istanbul_conv_map.png
 ---
 
+![Istanbul_conv_map]({{ site.baseurl }}/assets/images/Istanbul_conv_map.png)
+
 The Senate of the Czech Republic voted narrowly not to ratify the Istanbul Convention on preventing and combating violence against women and domestic violence. Only **34** of the 71 senators present voted in favour of ratification, which was not enough to achieve the required majority of **36** votes.
 
 The failure to ratify the Convention is disappointing for victims of domestic violence in the Czech Republic, who will thus lose the tools for their protection that the international document provides. The majority of European countries have already ratified the Istanbul Convention, and the Czech Republic finds itself in a minority of countries that reject it.

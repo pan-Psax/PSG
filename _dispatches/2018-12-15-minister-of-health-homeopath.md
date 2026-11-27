@@ -6,6 +6,8 @@ categories: [dispatches]
 image: /assets/images/Adam_Vojtech.jpg
 ---
 
+![Adam_Vojtech]({{ site.baseurl }}/assets/images/Adam_Vojtech.jpg)
+
 Minister of Health of the Czech Republic cautiously opposes the TCM and fails to fight homeopathy.  
 Even worse, he advocates it.
 

@@ -6,6 +6,8 @@ categories: [dispatches]
 image: /assets/images/acupunture.jpg
 ---
 
+![acupunture]({{ site.baseurl }}/assets/images/acupunture.jpg)
+
 “Endowment Fund to Support Traditional Chinese Medicine and Alternatives” in Prague is preparing commencement of operations of “TCM infocenter”.
 
 20.6.2018 happened one of actions connected with this affair. It was Czech-Chinese meeting of people of various professions. Diplomats involved.Prof. JUDr. Ivo Telec, CSc. had a speech named *“The present legal status of the TCM in the Czech Republic”*which could be interesting resumé of TCM in Czech republic viewed from “the other side”.

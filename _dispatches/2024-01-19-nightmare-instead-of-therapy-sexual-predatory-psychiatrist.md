@@ -6,6 +6,8 @@ categories: [dispatches]
 image: /assets/images/Jan_Cimicky_2014.jpeg
 ---
 
+![Jan_Cimický_2014]({{ site.baseurl }}/assets/images/Jan_Cimicky_2014.jpeg)
+
 A case of sexual abuse by one of the biggest personas of the Czech psychiatric community is now seeing its day in court. Dr. Jan Cimický, once a prominent psychiatrist who helped establish the field in the country (and also novelist, poet, translator, playwright and screenwriter), is currently on trial facing charges relating to 39 accounts of sexual assault and misconduct spanning decades.
 
 At the beginning of the trial, the prosecutor read the text of the indictment for one whole hour.

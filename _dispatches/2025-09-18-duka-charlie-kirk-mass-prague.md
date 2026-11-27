@@ -6,6 +6,8 @@ categories: [dispatches]
 image: /assets/images/MAGA_for_dummies_trans.png
 ---
 
+![MAGA_for_dummies_trans]({{ site.baseurl }}/assets/images/MAGA_for_dummies_trans.png)
+
 The assassination of Charlie Kirk, a profoundly polarizing American right-wing influencer and debateur, sent shockwaves across the Atlantic earlier this month. But few could have predicted the surreal chapter of this story would be written in Prague. In a move that has bewildered and angered many, Cardinal Dominik Duka, a senior conservative figure in the Czech Catholic Church, who we criticised repeatedly, announced a high-profile memorial mass for Kirk, to be held in the city’s historic Týn Church.
 
 This event is far more than a simple prayer for a departed soul. It is a calculated political act, one that has ignited fierce debate and exposed a deep, troubling rift within Czech Catholicism itself. The decision to elevate a foreign, non-Catholic extremist to the status of a political martyr reveals a great deal about the current leadership of the Czech Church and its eager embrace of divisive, imported culture-war tactics.

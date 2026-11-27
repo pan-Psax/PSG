@@ -6,6 +6,8 @@ categories: [dispatches]
 image: /assets/images/graf-c48d_-1.jpg
 ---
 
+![graf-c48d_-1]({{ site.baseurl }}/assets/images/graf-c48d_-1.jpg)
+
 The situation is not critical but also not good. Vaccination rates are declining, the number of cases of infection is rising.
 
 94 patients has measles just in Prague since the beginning of the year:
