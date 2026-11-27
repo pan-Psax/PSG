@@ -3,7 +3,10 @@ layout: post
 title: "4 October 2025 – First freeze, mushrooms, and farewell"
 date: 2025-10-04 16:58:56 +0200
 categories: [field-notes]
+image: /assets/images/indian_fn.png
 ---
+
+![Indian and Psax]({{ site.baseurl }}/assets/images/indian_fn.png){: style="max-width: 350px; display: block; margin: 0 auto 2rem auto;" }
 
 This morning brought the first frost - 0 °C. Autumn has arrived in full, and the air carries that unmistakable scent of the season. The forest floor is abundant with mushrooms: *Macrolepiota*, *Suillus*, *Russula*, and many others scattered across the leaf litter.
 
