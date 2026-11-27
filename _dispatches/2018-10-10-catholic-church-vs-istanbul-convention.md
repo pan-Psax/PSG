@@ -36,4 +36,4 @@ Similar arguments were cited by the government’s office in September as a myth
 
 Activist Aneta Petani peacefuly protested against the Mass of Petr Piťha, in the middle of the mass served by Cardinal Dominik Duke at St. Vitus Cathedral in Prague Castle. She came forward in front of Cardinal with a crown of thorns on her head and knelt in her bra and pants in front of the altar.  
 “*Why did you put a crown of thorns on us?”* and *“Love to Truth”* was written on her body.  
-A few minutes later security took her from the cathedral.
+A few minutes later security took her from the cathedral. 
