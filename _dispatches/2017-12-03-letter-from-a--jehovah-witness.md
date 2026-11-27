@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3227-2"
+title: "A Letter from a Jehovah's Wittness"
 date: 2017-12-03 17:29:00 +0200
 categories: [dispatches]
 image: /assets/images/jw.png
