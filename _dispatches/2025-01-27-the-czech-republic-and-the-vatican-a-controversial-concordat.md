@@ -6,7 +6,7 @@ categories: [dispatches]
 image: /assets/images/Gerard_-_Signature_du_Concordat_entre_la_France_et_le_Saint-Siege_le_15_juillet_1801.jpg
 ---
 
-![Gérard_-_Signature_du_Concordat_entre_la_France_et_le_Saint-Siège,_le_15_juillet_1801]({{ site.baseurl }}/assets/images/Gerard_-_Signature_du_Concordat_entre_la_France_et_le_Saint-Siege_le_15_juillet_1801.jpg)
+![Gérard_-_Signature_du_Concordat_entre_la_France_et_le_Saint-Siège,_le_15_juillet_1801]({{ site.baseurl }}/assets/images/Gerard_Signature_du_Concordat_entre_la_France_et_le_Saint-Siege_le_15_juillet_1801.jpg)
 
 The Czech Republic is currently embroiled in a heated debate over the ratification of a concordat with the Vatican. This agreement, long a source of contention, has sparked significant concern among proponents of secularism, human rights advocates, and those seeking justice for victims of sexual abuse. Signed in October 2024 by Prime Minister Petr Fiala and Vatican Secretary of State Pietro Parolin, the concordat has drawn criticism for its perceived impact on secularism and accountability.
 
