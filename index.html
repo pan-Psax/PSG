@@ -23,7 +23,7 @@ title: Home
 <hr>
 
 <div class="recent-section" style="margin-bottom: 2.5rem;">
-  <h3>📙 Recent Dispatches</h3>
+  <h3>Recent **Dispatches**</h3>
   <ul class="post-list" style="list-style-type: none; padding-left: 0;">
   {% assign recent_dispatches = site.dispatches | sort: "date" | reverse %}
   {% for post in recent_dispatches limit:3 %}
@@ -41,7 +41,7 @@ title: Home
 <hr>
 
 <div class="recent-section">
-  <h3>🌿 Recent Field Notes</h3>
+  <h3>Recent **Field Notes**</h3>
   <ul class="post-list" style="list-style-type: none; padding-left: 0;">
   {% assign recent_notes = site.field_notes | sort: "date" | reverse %}
   {% for post in recent_notes limit:3 %}
